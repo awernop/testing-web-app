@@ -1,0 +1,50 @@
+.Card{
+    margin-top: 30px;
+    border: 2px solid #dfdfdf;
+    border-radius: 16px;
+    width: 888px;
+    height: 97px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+.Flex{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.Status{
+    border-radius: 69px;
+    width: 154px;
+    height: 49px;
+    background: #a3a3a3;
+    text-align: center;
+    padding: 12px 35px;
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    bottom: 35px;
+    left: 22px;
+}
+.Date{
+    font-weight: 500;
+    font-size: 16px;
+    color: #898989;
+    margin-left: 50px;
+}
+.allTests{
+    margin-left: 61px;
+}
+.Flex1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 82px;
+    gap: 9px;
+}
+.Button{
+    width: 109px;
+    height: 97px;
+    background: #d9d9d9;
+}

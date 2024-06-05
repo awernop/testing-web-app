@@ -1,0 +1,46 @@
+[
+    {
+    "date": "20.05.24 18:18",
+    "result": "success",
+    "testsCount": "34",
+    "successCount": "24",
+    "successTests": [
+        {
+            "name": "UI-testing"
+        }
+    ],
+    "failedCount": "10",
+    "failedTests": [
+        {
+            "name": "Task test",
+            "result": "failed",
+            "error": "error"
+        },
+        {
+            "name": "New test",
+            "result": "failed",
+            "error": "error"
+        }
+    ]
+    },
+
+    {
+        "date": "20.05.24 18:18",
+        "result": "failed",
+        "testsCount": "34",
+        "successCount": "1",
+        "successTests": [
+            {
+                "name": "UI-testing"
+            }
+        ],
+        "failedCount": "33",
+        "failedTests": [
+            {
+                "name": "Task test",
+                "result": "failed",
+                "error": "error"
+            }
+        ]
+        }
+]
